@@ -1,5 +1,5 @@
 <template>
-  <div id="linebar" style="width: 100%; height: 300px">
+  <div id="linebar" style="width: 100%; height: 218px">
     
   </div>
 </template>
